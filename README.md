@@ -108,7 +108,6 @@ Adversaries intercept and store encrypted traffic today with the intent to decry
 **Sourabh Kumar** — Cybersecurity Analyst  
 [LinkedIn](https://www.linkedin.com/in/sourabh-kumar-73b549227/) | [Medium](https://medium.com/@sourabhkumar1043)
 
-> Produced as part of internship research at Gardiyan System Security Technologies, July 2025.
 > All content is original research. No proprietary or confidential organizational data is included.
 
 ---
